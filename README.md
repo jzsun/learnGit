@@ -1,2 +1,2 @@
-# learnGt
+# learnGit
 git summary
